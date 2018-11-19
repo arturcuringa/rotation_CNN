@@ -6,7 +6,9 @@ A simple repository to test cifar10 keras model on rotation dataset
 Add the train and test sets then 
 
  ./docker-build.sh
+ 
  ./docker-run.sh
+ 
  python cifar10.py
  
  This will generate the model on ./model/cifar10
