@@ -1,4 +1,4 @@
-# rotation_NNN
+# rotation_NN
 
 A simple repository to test cifar10 keras model on rotation dataset
 
